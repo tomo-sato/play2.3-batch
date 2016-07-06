@@ -22,6 +22,7 @@ import play.Play;
  * &gt; activator stage
  * &gt; java -cp ./target/universal/stage/lib/* ^
  * -Dconfig.file=./target/universal/stage/conf/application.conf ^
+ * jp.dcworks.batch.JobExecutor ^
  * jp.dcworks.batch.main.TestJob
  * </pre>
  * </li>

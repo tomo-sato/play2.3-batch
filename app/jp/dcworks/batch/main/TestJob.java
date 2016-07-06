@@ -13,9 +13,9 @@ import jp.dcworks.batch.AppJob;
  * @author tomo-sato
  */
 public class TestJob extends AppJob {
-	
+
 	/** Logger定義 */
-	private static Logger LOGGER = (Logger) LoggerFactory.getLogger(AppJob.class.getName());
+	private static Logger LOGGER = (Logger) LoggerFactory.getLogger(TestJob.class.getName());
 
 	/**
 	 * バッチ処理テストクラスコンストラクタ。
