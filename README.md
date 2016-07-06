@@ -42,7 +42,7 @@ java.lang.Exception: null
 
 
 ## ドキュメント
-* [play2.3-batch アプリケーションベース API仕様](https://tomo-sato.github.io/play2.3-batch/javadoc/)
+* [play2.3-batch アプリケーションベース API仕様](https://tomo-sato.github.io/play2.3-batch/javadoc/index.html)
 
 
 
